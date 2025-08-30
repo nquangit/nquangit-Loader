@@ -167,7 +167,7 @@
     <ClInclude Include="huffman.h" />
     <ClInclude Include="llist.h" />
     <ClInclude Include="obfusheader.h" />
-    <ClInclude Include="RealBlindingEDR.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="structs.h" />
     <ClInclude Include="unhooker.c" />
   </ItemGroup>
